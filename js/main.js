@@ -114,14 +114,4 @@ window.addEventListener("load", function(){
         img_copy_button.src = "css/check.svg";
 
     })
-
-
-
-
-
-
-
-
-
-
 });
